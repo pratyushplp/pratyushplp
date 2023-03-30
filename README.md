@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on python, react, JS, docker and C#
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning machine learning, deep learning
 - 📫 How to reach me: pratyushplp@gmail.com
 
 Pratyush Pradhab
@@ -12,6 +12,6 @@ Pratyush Pradhab
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on python, react, JS, docker and C#
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning about machine learning, deep learning
 - 📫 How to reach me: pratyushplp@gmail.com
 -->
