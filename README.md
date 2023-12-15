@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning machine learning, deep learning
 - 📫 How to reach me: pratyushplp@gmail.com
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushplp&show_icons=true&theme=onedark&locale=en" alt="pratyushplp" /></p>
-
+<!---  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushplp&show_icons=true&theme=onedark&locale=en" alt="pratyushplp" /></p> --->
 <!--
 **pratyushplp/pratyushplp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
